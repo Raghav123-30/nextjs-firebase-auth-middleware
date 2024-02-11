@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd9fc55f-3629-44db-9b53-9167f1db312f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/api/user/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/login/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/register/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/AuthProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/NextUIProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/ThemeProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/register/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/register/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +85,7 @@
       <workItem from="1707583193513" duration="735000" />
       <workItem from="1707625214294" duration="65000" />
       <workItem from="1707629397907" duration="5711000" />
-      <workItem from="1707637330618" duration="2743000" />
+      <workItem from="1707637330618" duration="3382000" />
     </task>
     <servers />
   </component>
